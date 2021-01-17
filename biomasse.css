@@ -1,0 +1,21 @@
+#main
+{
+    display: flex;
+	min-height: 100vh;
+	width: 900px;
+	margin: auto;
+	flex-direction: column;
+}
+section:nth-child(2)
+{
+	flex: 2;
+}
+.hauptitel
+{
+    color:  #69c1c9;
+}
+.dropbtn
+{
+	color: green;
+	border-bottom: 3px solid green;
+}

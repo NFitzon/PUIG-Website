@@ -28,6 +28,10 @@
 	font-family: 'acmeregular';
 	color: #69c1c9;
 }
+p
+{
+	font-size: 16px;
+}
 .slogan
 {
 	color: #69c1c9;
@@ -35,6 +39,11 @@
 h1, h2, h3
 {
 	font-family: 'abelregular';
+	color:  #69c1c9;
+}
+.logo
+{
+	text-decoration: none;
 }
 /*Main-Style*/
 #main
@@ -46,6 +55,12 @@ h1, h2, h3
 	flex-direction: column;
 }
 /*Header*/
+#dritt
+{
+	display: flex;
+	width: 100%;
+	justify-content: space-between;
+}
 header
 {
 	display: flex;
@@ -99,7 +114,7 @@ nav a:hover
 }
 /*.dropbtn:visited
 {
-	color: green;	
+	color: green;
 }*/
 .dropdown {
 	position: relative;
@@ -129,6 +144,62 @@ nav a:hover
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {background-color: #ddd;}
+.dropdownZwei {
+	position: relative;
+	display: inline-block;
+  }
+  .dropdown-contentZwei {
+	display: none;
+	position: absolute;
+	background-color: #f1f1f1;
+	min-width: 160px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	z-index: 1;
+
+
+  }
+  .dropdown-contentZwei a {
+	color: black;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+  }
+/* Change color of dropdown links on hover */
+.dropdown-contentZwei a:hover {background-color: #ddd;}
+
+/* Show the dropdown menu on hover */
+.dropdownZwei:hover .dropdown-contentZwei {display: block;}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdownZwei:hover .dropbtnZwei {background-color: #ddd;}
+.dropdownDrei {
+	position: relative;
+	display: inline-block;
+  }
+  .dropdown-contentDrei {
+	display: none;
+	position: absolute;
+	background-color: #f1f1f1;
+	min-width: 160px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	z-index: 1;
+
+
+  }
+  .dropdown-contentDrei a {
+	color: black;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+  }
+/* Change color of dropdown links on hover */
+.dropdown-contentDrei a:hover {background-color: #ddd;}
+
+/* Show the dropdown menu on hover */
+.dropdownDrei:hover .dropdown-contentDrei {display: block;}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdownDrei:hover .dropbtnDrei {background-color: #ddd;}
 /*Banner*/
 #banner
 {
@@ -166,15 +237,18 @@ nav a:hover
     padding: 3px 8px 0px 8px;
 	right: 5px;
 }
+
 /*Section*/
 section:nth-child(3)
 {
-	/*border-bottom: 1px black solid;*
+	/*border-bottom: 1px black solid;*/
 	flex: 1;/*Mit "flex: 1;" "Header" bleibt ganz oben, "Footer" ganz unter und "Section" nimmt den Rest der Seite an*/
 }
 section
 {
-	display: flex;
+	border-bottom: 1px black solid;
+	height: 600px;
+	/*display: flex;*/
 }
 /*Footer*/
 footer

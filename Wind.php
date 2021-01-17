@@ -4,12 +4,15 @@
 <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="wind.css" />
+    <title>Wind</title>
 </head>
 
+<div id="main">
 <body>
     <!-- Header -->
     <?php include("Header.php"); ?>
-    <h1>Wind</h1>
+    <section><h1>Wind</h1>
     <p>
         Die Windenergie leistet in Deutschland den größten Beitrag zur Stromerzeugung aus Erneuerbaren Energien.
         Im globalen Maßstab gehört die deutsche Windindustrie zu den Technologie- und Weltmarktführern.
@@ -42,12 +45,16 @@
         die Windenergienutzung auf dem Meer („Offshore“) bieten Perspektiven für den weiteren Ausbau.
         <br>
     </p>
-    <img src="Bilder/AEE_Technische_Skizze_Windkraft.jpg" alt="Windkraft" />
-
     <small>Windenergie - Agentur für Erneuerbare Energien. (o. D.). Agentur für Erneuerbare Energien. Abgerufen am 16.
         Januar 2021
         <a href=https://www.unendlich-viel-energie.de/erneuerbare-energie/wind>Link</a>
     </small>
+    <br /><br /><br />
+    <img class="wind" src="Bilder/windenergy.webp" alt="Windkraft" height=100  width=100 title="Windkraft"/>
+</section>
+    
+    
     <!-- Footer -->
     <?php include("footer.php"); ?>
+</div>
 </body>

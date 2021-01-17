@@ -4,12 +4,18 @@
 <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="sonne.css" />
+    <title>Solar</title>
 </head>
 
+<div id="main" >
 <body>
+    <!-- Header -->
+    <?php include("header.php"); ?>
+    <section>
     <h1>Sonne</h1>
     <p>
-        Die Sonne steht als Energiequelle unbegrenzt, umweltfreundlich und kostenlos zur Verfügung. Aus dem Sonnenlicht
+         Die Sonne steht als Energiequelle unbegrenzt, umweltfreundlich und kostenlos zur Verfügung. Aus dem Sonnenlicht
         können
         Strom und Wärme gewonnen werden. Daneben sind die solare Kühlung und Prozesswärme innovative Einsatzbereiche der
         Sonnenenergie, die an Bedeutung gewinnen.
@@ -31,8 +37,8 @@
     <small>Sonne - Agentur für Erneuerbare Energien. (o. D.). Agentur für Erneuerbare Energien. Abgerufen am 16.
         Januar 2021
         <a href="https://www.unendlich-viel-energie.de/erneuerbare-energie/sonne">Link</a>
-    </small>
-
+    
+    
     <h1>Solarstrom</h1>
     <p>
         Photovoltaikanlagen wandeln die Sonnenstrahlung mittels Solarzellen in elektrischen Strom um. Herzstück jeder
@@ -41,10 +47,18 @@
         elektrischer
         Geräte genutzt oder in Batterien gespeichert wird. Gleichstrom kann auch in Wechselstrom umgewandelt und in das
         öffentliche Stromnetz eingespeist werden. Zu Spitzenzeiten kann die Photovoltaik bereits mehr als die Hälfte der
-        momentanen Elektrizitätsleistung in Deutschland bereitstellen.
+        momentanen Elektrizitätsleistung in Deutschland bereitstellen.<br /><br />        
     </p>
-
-    <small>Solarstrom - Agentur für Erneuerbare Energien. (o. D.). Agentur für Erneuerbare Energien. Abgerufen am 16.
-        Januar 2021
-        <a href="https://www.unendlich-viel-energie.de/erneuerbare-energie/sonne/photovoltaik">Link</a></small>
+    </small>
+    <small>Solarstrom - Agentur für Erneuerbare Energien. (o. D.). Agentur für Erneuerbare Energien. Abgerufen am 16. Januar 2021 <a href="https://www.unendlich-viel-energie.de/erneuerbare-energie/sonne/photovoltaik">Link</a></small>
+    <img class="solar" src="Bilder/solarenergy.webp" alt="Solarenergie" height=100  width=100 title="Solarenergie"/>
+    </section>
+    
+  
+   
+   
+    
+    <!-- Footer -->
+   <?php include("footer.php"); ?>    
 </body>
+</div>

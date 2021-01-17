@@ -17,4 +17,4 @@
 					<a href="#"><img src="Bilder/skype.png" height="30" width="30" alt="twitter" title="twitter" /></a>
 				</div>
 			</ul>
-		</footer>
+</footer>
