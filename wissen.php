@@ -21,7 +21,8 @@
     Zur Bewertung von kumulativen Wirkungen des EE-Ausbaus ist eine Methodik zu entwickeln, die eine vergleichbare und handhabbare Nutzung in der Praxis ermöglicht. Auch eine weitere Verankerung kumulativer Wirkungsbewertungen in Raumplanung und Umweltprüfung ist aufgrund der zunehmenden Dichte von EE-Anlagen erforderlich.
     Die Erprobungs- und Begleitforschung an EE-Anlagen ist zu intensivieren. Durch die wissenschaftliche Begleitung z. B. an Testanlagen oder auch im regulären Anlagenbetrieb kann die Naturverträglichkeit bewertet werden. So ist beispielsweise auch die Wirksamkeit von Vermeidungsmaßnahmen zu evaluieren.
     </p>
-    
+    <smal>BfN (2019): Erneuerbare Energien Report - Die Energiewende naturverträglich gestalten. <a href="https://www.bfn.de/fileadmin/BfN/erneuerbareenergien/Dokumente/BfNErneuerbareEnergienReport2019_
+barrierefrei.pdf.">Link</a></small>
     <!--<img class="wind" src="Bilder/windenergy.webp" alt="Windkraft" height=100  width=100 title="Windkraft"/>-->
 </section>
     

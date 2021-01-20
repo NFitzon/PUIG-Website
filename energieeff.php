@@ -12,7 +12,7 @@
 <body>
     <!-- Header -->
     <?php include("Header.php"); ?>
-    <section><h1>Wissens- und Datenbasis</h1>
+    <section><h1>Starke Umsetzung der Energieeffizienz</h1>
     <p>
     Die Erhöhung der Effizienz des gesamten Energieversorgungssystems ist unerlässlich. 
     Möglich ist das unter anderem über den Ausbau der Sektorkopplung und Elektrifizierungen im Verkehrs- und Wärmebereich.
@@ -21,7 +21,7 @@
     Bioenergie kann auch zu Synergien aus unterschiedlichen Zielbereichen führen, zum Beispiel aus der Landschaftspflege. 
     Es ist jedoch fraglich, in welchem Maß die Förderung aus dem Energiebereich geeignet ist, solche Synergien tatsächlich zu erschließen und gleichzeitig trotzdem einen bezahlbaren Beitrag zum Energiesystem zu unterstützen.
     </p>
-    
+    <smal>BfN (2019): Erneuerbare Energien Report - Die Energiewende naturverträglich gestalten. <a href="https://www.bfn.de/fileadmin/BfN/erneuerbareenergien/Dokumente/BfNErneuerbareEnergienReport2019_barrierefrei.pdf">Link</a></small>
     <!--<img class="wind" src="Bilder/windenergy.webp" alt="Windkraft" height=100  width=100 title="Windkraft"/>-->
 </section>
     

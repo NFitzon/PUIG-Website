@@ -16,9 +16,9 @@
     <h1>Bürgerbeteiligung</h1>
     <p>
     Um ein umfassendes Meinungsbild zu erlangen, wird während des Projekts einer repräsentativen Quote ausgewählte BürgerInnen zu dialogorientierten Veranstaltungsformaten eingeladen werden. Dazu zählen beispielsweise partizipative Gruppendiskussionen oder Bürgerwerkstätten, in denen in kleineren Runden alle zu Wort kommen.
-   Anregungen und Hilfestellungen für eine ausgewogene Bürgerbeteiligung bieten Leitfäden 13, unabhängige Agenturen bzw. Zentren                      
+   Anregungen und Hilfestellungen für eine ausgewogene Bürgerbeteiligung bieten Leitfäden 13, unabhängige Agenturen bzw. Zentren.                     
     </p>
-        
+    <smal>BfN (2019): Erneuerbare Energien Report - Die Energiewende naturverträglich gestalten. <a href="https://www.bfn.de/fileadmin/BfN/erneuerbareenergien/Dokumente/BfNErneuerbareEnergienReport2019_barrierefrei.pdf">Link</a></small>
     <!--<img class="solar" src="Bilder/wasserenergie.jpg" alt="Wasserenergie" height=100  width=100 title="Wasserenergie"/>-->
     </section>
     

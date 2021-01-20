@@ -29,6 +29,7 @@
             </ol>
             
     </p>
+    <smal>BfN (2019): Erneuerbare Energien Report - Die Energiewende naturverträglich gestalten. <a href="https://www.bfn.de/fileadmin/BfN/erneuerbareenergien/Dokumente/BfNErneuerbareEnergienReport2019_barrierefrei.pdf">Link</a></small>
     
     <!--<img class="wind" src="Bilder/windenergy.webp" alt="Windkraft" height=100  width=100 title="Windkraft"/>-->
 </section>

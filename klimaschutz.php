@@ -22,7 +22,8 @@
     </p>
     <p>Die Windenergie ist der wichtigste Energieträger bei der Vermeidun von Treibhausgas-Emissionen bei der Stromerzeugung. 
         Der zweite ist die Biomasseinsbesonder die erneuerbare Wärmeversorgung und derneuerbare Kraftstoffe.</p>
-    
+        <smal>Effektiver Klimaschutz - Agentur für Erneuerbare Energien. (o. D.). Agentur für Erneuerbare Energien. Abgerufen am 20.
+        Januar 2021 <a href="https://www.unendlich-viel-energie.de/themen/gute-gruende/1-effektiver-klimaschutz">Link</a></small>
     <!--<img class="solar" src="Bilder/wasserenergie.jpg" alt="Wasserenergie" height=100  width=100 title="Wasserenergie"/>-->
     </section>
     
