@@ -29,7 +29,7 @@
     </p>
     <small>Biomasse - Agentur für Erneuerbare Energien. (o. D.). Agentur für Erneuerbare Energien. Abgerufen am 20.
         Januar 2021
-        <a href="https://www.unendlich-viel-energie.de/erneuerbare-energie/sonne">Link</a>
+        <a href="https://www.unendlich-viel-energie.de/erneuerbare-energie/bioenergie">Link</a>
     </section>
     
     <!-- Footer -->
